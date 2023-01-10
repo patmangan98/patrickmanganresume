@@ -1,0 +1,1 @@
+This npm package will allow you to print out my resume. The cool thing about this is that it will allow anyone to install this and print out a resume from their console.
